@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="151e01d3-5eab-4ba2-a405-cc49cedb63bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/21Games.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien/alien1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien/alien10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien/alien11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien/alien12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien/alien13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien/alien14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien/alien15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien/alien16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien/alien17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien/alien18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien/alien19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien/alien2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien/alien20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien/alien21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien/alien22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien/alien23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien/alien24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien/alien3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien/alien4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien/alien5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien/alien6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien/alien7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien/alien8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/alien/alien9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/comet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/kode.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy/mummy1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy/mummy10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy/mummy11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy/mummy12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy/mummy13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy/mummy14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy/mummy15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy/mummy16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy/mummy17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy/mummy18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy/mummy19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy/mummy2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy/mummy20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy/mummy21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy/mummy22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy/mummy23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy/mummy24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy/mummy3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy/mummy4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy/mummy5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy/mummy6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy/mummy7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy/mummy8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/mummy/mummy9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/player1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/player10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/player11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/player12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/player13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/player14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/player15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/player16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/player17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/player18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/player19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/player2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/player20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/player21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/player22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/player23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/player24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/player3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/player4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/player5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/player6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/player7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/player8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player/player9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/projectile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sounds/click.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sounds/game_over.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sounds/meteorite.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/sounds/tir.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comet_event.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/monster.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sounds.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ctnNa2vU17yOSdmV4ETWANgU4Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rechs\PycharmProjects\21Games" />
+      <recent name="C:\Users\rechs\PycharmProjects\21Games\assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="21Games" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-67fca87a943a-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.259" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="151e01d3-5eab-4ba2-a405-cc49cedb63bf" name="Changes" comment="" />
+      <created>1708939702756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708939702756</updated>
+      <workItem from="1708939708722" duration="10302000" />
+      <workItem from="1709025364722" duration="2832000" />
+      <workItem from="1709028210267" duration="4766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/21Games$main.coverage" NAME="main Coverage Results" MODIFIED="1709034934321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
